@@ -1,0 +1,9 @@
+;Desenho de uma estrela macabra
+
+order 5
+rotate 90
+
+
+angle 8
+axiom FX
+X = @2[-!FX]|+FX 

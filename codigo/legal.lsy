@@ -1,0 +1,10 @@
+; Não tão legal assim...
+
+angle 4
+order 3
+rotate 0
+
+axiom F+F+F+F
+F = F[GF]+F-GFG-F+F
+
+

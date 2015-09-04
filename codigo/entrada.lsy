@@ -1,0 +1,10 @@
+; Floco de Neve de Koch
+; preamble
+angle 6 ; means 360/6 degrees
+order 4
+rotate 90
+
+axiom F--F--F
+F = F+F--F+F 
+
+

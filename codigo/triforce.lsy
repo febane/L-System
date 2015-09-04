@@ -1,0 +1,10 @@
+; Na real é o Triângulo de Sierpinski
+
+angle 3
+order 4
+rotate 0
+
+axiom F+F+F
+F = F[+F]F
+
+
